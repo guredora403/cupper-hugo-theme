@@ -1,0 +1,28 @@
+- id: skip_to_content
+  translation: コンテンツへスキップ
+- id: nav_main_navigation
+  translation: メインナビゲーション
+- id: nav_button_menu
+  translation: メニュー
+- id: discuss_show_comments_button
+  translation: コメントを表示
+- id: discuss_comments_disabled
+  translation: Disqus コメントが無効になっています。
+- id: discuss_js_disabled
+  translation: Disqus コメントを表示するには、JavaScriptを有効にしてください。
+- id: dark_theme
+  translation: "ダーク テーマ:"
+- id: table_of_contents
+  translation: 目次
+- id: publish_date
+  translation: "作成日時:"
+- id: last_updated
+  translation: "最終更新:"
+- id: tags
+  translation: "タグ:"
+- id: aria_label_tags
+  translation: タグ
+- id: search_placeholder
+  translation: タイトルで検索...
+- id: search_aria_label
+  translation: タイトルで検索
